@@ -1,1 +1,1 @@
-This project is about forecasting  the price of amazon stock using LSTM model.
+This project is about forecasting  the closing  price of amazon stock using LSTM based model. There are several strategies related to the algorithmic_trading present in the Algorithmic_Trading folder.
