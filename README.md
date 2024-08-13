@@ -1,1 +1,1 @@
-This project is about predicting the price of amazon stock using Machine Learning.
+This project is about forecasting  the price of amazon stock using LSTM model.
